@@ -11,4 +11,6 @@
       "path": "./tsconfig.vitest.json"
     }
   ]
+
+  // "include": ["src/**/*.ts", "src/**/*.vue"]
 }
